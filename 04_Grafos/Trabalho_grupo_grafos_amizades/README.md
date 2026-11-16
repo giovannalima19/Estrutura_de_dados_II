@@ -10,7 +10,7 @@ Atividade de **Estrutura de Dados II** sobre a representação de relações de 
 - Isabela Cristina - https://github.com/isawott/estruturas-dados-II
 - Julia Barreira - https://github.com/Julia-BarCar/Estrutura-de-Dados-II
 - Pedro Paulo - https://github.com/PedroPaulo-exe/Estrutura_de_Dados_II-Kadidja
-- Giovanna Nascimento Lima - https://github.com/tiggofreire/estrutura-de-dados-II
+- Tiago freire - https://github.com/tiggofreire/estrutura-de-dados-II
 
 ## Proposta
 
